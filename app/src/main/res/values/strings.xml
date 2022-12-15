@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NEWS 24/7</string>
+    <string name="api_key">74939de3c4954441943b45762fbecc96</string>
+    <string name="title_activity_start">StartActivity</string>
+</resources>
